@@ -5,6 +5,8 @@ public class Master {
 		// TODO Auto-generated method stub
 		
 		System.out.println("Master");
+		
+		System.out.println("HotFix");
 	}
 
 }
